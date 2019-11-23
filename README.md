@@ -1,15 +1,6 @@
 # forest-underground-starter
 This is forest-underground-starter, base for forestunderground.co.uk homepage. 
-## powered by 
-
-    _                      _                 ____ _     ___
-    / \   _ __   __ _ _   _| | __ _ _ __     / ___| |   |_ _|
-   / △ \ | '_ \ / _` | | | | |/ _` | '__|   | |   | |    | |
-  / ___ \| | | | (_| | |_| | | (_| | |      | |___| |___ | |
- /_/   \_\_| |_|\__, |\__,_|_|\__,_|_|       \____|_____|___|
-                |___/
-    
-
+### Powered by: 
 Angular CLI: 8.3.19
 Node: 12.13.1
 OS: linux x64
